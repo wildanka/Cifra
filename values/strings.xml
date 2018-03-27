@@ -1,0 +1,272 @@
+<resources>
+    <string name="app_name">Cifra</string>
+
+    <string name="information1">L’information 1 (la Géographie)</string>
+    <string name="information2">L’information 2 (le Rélief)</string>
+    <string name="information3">L’information 3 (le Climat)</string>
+    <string name="information4">L’information 4 (les Paysages)</string>
+    <string name="materi">Materi</string>
+    <string name="user_email">user@email.com</string>
+    <string name="username">User</string>
+    <string name="judul_lesson_1">La Vie Culturelle</string>
+    <string name="judul_lesson_1_sub_1">Les Médias</string>
+    <string name="judul_lesson_1_sub_2">Les Musique</string>
+    <string name="judul_lesson_1_sub_3">Le Film</string>
+    <string name="judul_lesson_2">Économique</string>
+    <string name="judul_lesson_3">La Vie Familiale</string>
+    <string name="judul_lesson_4">Les Grandes Villes de la France</string>
+    <string name="judul_lesson_5">La Vie Politique</string>
+    <string name="judul_lesson_6">La Vie Quotidienne</string>
+    <string name="judul_lesson_7">Scolaire</string>
+    <string name="title_activity_lesson_culturelle">La Vie Culturelle</string>
+
+
+    <string name="title_activity_lesson_economique">Économique</string>
+    <string name="text_panjang">Lorem ipsum dolraw as as diasbd ias dashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcv dashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcv
+     <br>vgdhjab gfdhfkafdhjas fnjsbdhn </br> vnjv cdnkcv dashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcv
+     vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcv dashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcvdashjdkj d as bduwefjda sh vgdhjab gfdhfkafdhjas fnjsbdhn vnjv cdnkcv
+        <br>vgdhjab gfdhfkafdhjas fnjsbdhn </br>
+        <br>vgdhjab gfdhfkafdhjas fnjsbdhn </br> <br>vgdhjab gfdhfkafdhjas fnjsbdhn </br> <br>vgdhjab gfdhfkafdhjas fnjsbdhn </br> <br>vgdhjab gfdhfkafdhjas fnjsbdhn </br>
+
+    </string>
+
+    <string name="lesson_ekonomi_p1">1.	La France est présente en Europe et dans le monde par ses produit et ses services elle est la quatrième puissance économique mondiale</string>
+    <string name="lesson_ekonomi_p2">2. Les produit que la France export le plus sont les produit industriels et manufactures et les services</string>
+    <string name="lesson_ekonomi_p3">3. La France importe les mêmes types de produits, ainsi que des matières premières (gaz, pétrole en particulier)
+    </string>
+    <string name="lesson_ekonomi_p4">4. Les principaux partenaires commerciaux de la France sont les pays de l’Union européenne (l’Allemagne, l’Italie, l’Espagne, la Belgique, le Royaume-Uni, les États-Unis et le Japon</string>
+    <string name="lesson_ekonomi_p5">5. La France a créé des multinationals dans différents domains : Michelin (pneus); Danone (agroalimentaire); Renault (automobile); Accord (hôtellerie); Carrefour (grande distribution)</string>
+    <string name="lesson_ekonomi_p6">6. De plus, un certain nombre d’entreprise françaises se sont installées à l’étranger</string>
+    <string name="title_activity_lesson_culture_media">LessonCultureMedia</string>
+    <string name="title_activity_lesson_culturelle_media">Media</string>
+    <string name="title_activity_lesson_culturelle_music">Music</string>
+    <string name="title_activity_lesson_culturelle_film">Film</string>
+    <string name="title_activity_lesson_culturelle_media_press">Press</string>
+    <string name="title_activity_lesson_culturelle_media_tv">MediaTV</string>
+
+    <!--Culturelle Music-->
+    <string name="culturelle_music_header_1">La musique française est née au Moyen Âge, avec le genre proche du plain-chant grégorien, nommé organum.</string>
+    <string name="culturelle_music_header_2">À partir du tournant du <i>XVI<sup><small>e</small></sup></i>  au <i>XVII<sup><small>e</small></sup></i> siècle, on vit apparaître de nouveaux genres comme l’air de cour, le ballet de cour, et la suite de danses.</string>
+    <string name="adam_dela_halle">Adam de la Halle</string>
+    <string name="g_machaut">Guillaume de Machaut</string>
+    <string name="perotin">Pérotin</string>
+    <string name="roland">Roland de Lassus</string>
+    <string name="g_dufay">Guillaume Dufay </string>
+    <string name="josquin">Josquin des Prés</string>
+    <string name="francois">François Couperin</string>
+    <string name="marin_marais">Marin Marais</string>
+    <string name="jp_rameau">Jean-Philippe Rameau</string>
+    <string name="luigi_cherubini">Luigi Cherubini</string>
+    <string name="nicolas_dalayrac">Nicolas Dalayrac</string>
+    <string name="andre_gretry">André Grétry</string>
+    <string name="h_berlios">Hector Berlioz</string>
+    <string name="e_chabrier">Emmanuel Chabrier</string>
+    <string name="a_caplet">André Caplet</string>
+    <string name="ad_clos">Alfred Desen Clos</string>
+    <string name="c_debussy">Claude Debussy</string>
+    <string name="p_boules">Pierre Boulez</string>
+    <string name="g_conneson">Guillaume Connesson</string>
+    <string name="p_dusapin">Pascal Dusapin</string>
+    <string name="g_bizet">Georges Bizet</string>
+
+    <string name="penjelasan_film">
+        Quelques Festivals Film en France \n
+1.	Festival de Cannes \n
+2.	Champ-Elysées Film Festival \n
+3.	Festival International du Film d’Animation d’Annecy \n
+4.	Festival International Cinéma et Costumes de Moulins \n
+5.	Festival du Film de Belfort \n
+6.	Festival International du Film de la Rochelle
+    </string>
+    <string name="title_activity_lesson_familiale">Familiale</string>
+    <string name="title_activity_lesson_scolaire">Scolaire</string>
+    <string name="pembuka_scolaire_atas">-Généralement, on reste à l’école de 8h30 du matin jusqu’à la fin de l’aprés-midi, mais le mercredi on se repose.
+    </string>
+    <string name="pembuka_scolaire_kiri">
+	-En 1882, Jules Ferry –Ministre de l’Éducation Nationale de la <i>III<sup><small>e</small></sup></i> République- fait voter des lois sur l’obliogation scolaire, la laïcité (l’Église est exclue de l’organisation de l’enseignement) et la gratuité de l’école \n
+	</string>
+    <string name="pembuka_scolaire_kanan">
+	-Aujourd’hui, ces pricipes sont encore à la base de l’enseignement, même s’ils ont quelque peu évolué. Example: l’obligation scolaire est passé de 12 à 16 ans et la gratuité est complete dans l’enseignement primaire et dans l’enseignement secondaire
+    </string>
+    <string name="pembuka_scolaire_bawah">
+	-Trois degrés l’enseignement en France depuis la Révolution de 1789 sont l’enseignement primaire, l’enseignement secondaire, et l’enseignement supérieur
+    </string>
+
+    <!--Scolaire-->
+    <string name="title_activity_lesson_scolaire_sd">l’enseignement primaire</string>
+    <string name="title_activity_lesson_scolaire_smp">l’enseignement secondaire</string>
+    <string name="title_activity_lesson_scolaire_sm">l’enseignement supérieur</string>
+
+    <!--SD-->
+    <string name="sub_header_scolaire_sd_1">•	L’école maternelle </string>
+    <string name="isi_sub_scolaire_sd_1">n’est pas obligatoire et concerne les enfants de 3 à 5 ans </string>
+    <string name="sub_header_scolaire_sd_2">•	L’école primaire  </string>
+    <string name="isi_sub_scolaire_sd_2">concerne les enfants de 6 à 10 ans. Elle est organisée de la façon suivante :  </string>
+    <string name="isi_sub_scolaire_sd_3">
+        1 an cours préparatoire \n
+        2 ans cours élémentaire \n
+        2 ans cours moyen
+    </string>
+
+    <!--SMP-->
+    <string name="sub_header_smp_1">•	Le college</string>
+    <string name="sub_header_smp_1_isi_1">Le college concerne les élèlev de 11 à 14 ans (Classes de 6<sup><small>e</small></sup> ,5<sup><small>e</small></sup>,4<sup><small>e</small></sup>,3<sup><small>e</small></sup>).
+        À la fin du college, les élèves passent le brevet des collèges.</string>
+    <string name="sub_header_smp_1_isi_2">Brevet, c’est à ce moment qu’on decide de l’orientation des élèves, ils peuvent continuer au lycée ou aller dans un lycée professionnel</string>
+    <string name="sub_header_smp_2">•	Le lycée </string>
+    <string name="sub_header_smp_2_isi_1">Le lycée concerne les élèves de 15 à 18 ans (Classes de 2^nde,1^re et terminale) et mène au baccalauréat <b>(le Bac)</b></string>
+    <string name="sub_header_smp_2_isi_2">Le bac permet de continuer les études dans l’enseignement supérieur à l’université</string>
+    <string name="sub_header_smp_2_isi_3">Le type du Bac :</string>
+    <string name="sub_header_smp_2_isi_3_anak">
+       \t - Le bac L à orientation littéraire \n
+       \t - Le bac S à orientation scientifique \n
+       \t - Le bac ES à orientation économique et sociale \n
+    </string>
+
+    <!--SMA-->
+    <string name="sma_1_kiri">Les universités L’entrée est possible avec le bac</string>
+    <string name="sma_1_kanan">Les grandes écoles Il faut passer des concours difficiles</string>
+    <string name="sma_2_atas">Les études supérieur durent entre deux et huit ans</string>
+    <string name="sma_2_tengah_kiri">Dans les IUT (instituts universitaires de technologie), on passe le DUT (diplôme universitaire de technologie)</string>
+    <string name="sma_2_tengah_kanan">Dans les classes de techniciens supérieur, on passe un BTS (brevet de technician supérieur)</string>
+    <string name="sma_2_bawah">La durée des études est courte: deux ans. Ce sont des études à finalité professionnelle.</string>
+    <string name="sma_3_atas_kiri">À l’université, à la fin des deux premières années, on obtient un diplôme de premier cycle, le DEUG (diplôme d’études universitaires générales)</string>
+    <string name="sma_3_atas_kanan">La troisième année, on obtient la licence et la quatrième année la maîtrise (diplôme de deuxième cycle)</string>
+    <string name="sma_3_bawah">On peut poursuivre ses études en troisième cycle avec un DEA, un doctorat ou un DESS</string>
+    <string name="sma_4_atas_kiri">Le DEA (diplôme d’études approfondies) dure un ou deux ans et initie les étudiants à la recherche</string>
+    <string name="sma_4_atas_kanan">Le doctorat, qui suit le DEA, est une recherché très détaillée qui due de trois à quatre ans et qui permet – par example – d’enseigner à l’université</string>
+    <string name="sma_4_tengah">Le DESS (diplôme d’études supérieures spécialisées) dure un ou deux ans. C’est un diplôme à finalité professionnelle.</string>
+    <string name="sma_4_bawah">Tous les diplôme, du DEUG au doctorat, sont des diplômes nationaux: ils sont reconnus dans toutes les universités françaises</string>
+    <string name="title_activity_lesson_grande_villes">Grande Villes</string>
+    <string name="title_activity_la_picardie">LaPicardie</string>
+    <string name="title_activity_lesson_grande_villes_detail">Détail de la GrandeVilles</string>
+    <string name="title_activity_detil_kota_satu_gambar">Détail de la ville</string>
+    <string name="title_activity_deti_kota_dua_gambar">Détail de la ville</string>
+    <string name="title_activity_detil_kota_tiga_gambar">Détail de la ville</string>
+    <string name="title_activity_daerah_khusus_ibukota">Lle de France</string>
+    <string name="title_activity_detil_kota_paris">Détail de Paris</string>
+    <string name="title_activity_exercise_menu_listbaru">Liste d\'\exercices</string>
+    <string name="title_activity_text_only_quiz">Des exercices 1</string>
+    <string name="title_activity_pic_name_quiz">Des exercices 2</string>
+    <string name="title_activity_quiz_three">Des exercices 3</string>
+    <string name="title_activity_quiz_four">Des exercices 4</string>
+    <string name="title_activity_text_only_quiz_five">Des exercices 5</string>
+    <string name="title_activity_pic_name_quiz_six">Des exercices 6</string>
+    <string name="title_activity_pic_name_quiz_seven">Des exercices 7</string>
+    <string name="title_activity_quiz_eight">Des exercices 8</string>
+
+    <!--Scolaire-->
+
+    <!--Kota Besar-->
+    <string name="materi_paris">- 105 <i>km<sup><small>2</small></sup></i>
+	- 2,2 millions d’habitants. \n
+	- Paris n’est pas une capitale gigantesque, on peut la parcourir à pied \n
+	- La ville garde de traces de son histoire \n
+	- Les rois, et après eux les présidents de la République, ont laissé leurs marques dans l’architecture et l’urbanisme \n
+	- Des siècles passes, il reste des bâtiments qui abritent des administrations, des musées, des universités, des salles de spectacles comme le Palais de Justice, le Musée du Louvre, le musée d’Orsay, la Sorbonne, et le Palais-Garnier \n
+	- Il reste aussi de places prestigieuses ou charmantes (la place Vendôme, la place de la Concorde), \n
+        de grandes avenues (les champs-Élysées, le grand Boulevards), \n
+        des parcs et jardins (le Bois de Vincennes et de Boulogne, le jardins de Tuileries), \n
+        des églises (Notre-Dame, Sacré-Coeur de Montmartre), des curiousités (la Tour Eiffel)
+    </string>
+    <string name="materi_paris_2">
+        - En vignt-cinq ans, de nouveaux bâtiments ont été construits ou rénovés, comme:
+    </string>
+    <string name="materi_paris_3">
+        -Paris est moins peuplé à cause du prix des appartements et de la perte des emplois industriels
+	    - Le banlieues proches , bien reliées par les transports en commun, font Presque partie de la ville
+    </string>
+    <string name="title_activity_lesson_presentation_list">Présentation</string>
+    <string name="title_activity_la_geographie">La Géographie</string>
+
+    <!--Presentation : Geography-->
+    <string name="geography_satu">1.	La France a une superficie de 551.601 <i>km<sup><small>2</small></sup></i>.</string>
+    <string name="geography_dua">2.	La France compte 22 régions et 95 département. Chaque regions a sa capitale régionale et chaque département a son chef-lieu.</string>
+    <string name="geography_tiga">3.	La France est appellee l’Hexagone car elle a six côtes.</string>
+    <string name="geography_empat">4.	Les côtes sont: trois maritimes (sur la Manche [au nord], sur l’océan Atlantique [à l’ouest], et la mer Méditerranée [au sud]) et trois terrestres (la Bélgique et Luxembourg [au nord], l’Allemagne, la Suisse et l’Italie [à l’est], et l’Espagne [au sud-ouest]).</string>
+    <string name="sumber_geography"><i>La source: Civilisation du Français (Catherine Carlo &amp; Mariella Causa) et France (Ministère des Affaire Étrangère)</i></string>
+    <string name="sumber_relief"><i>La source: Civilisation du Français (Catherine Carlo &amp; Mariella Causa) et France (Ministère des Affaires Étrangère)</i></string>
+    <string name="sumber_paysages"><i>La source: France (Ministère des Affaires Étrangère)</i></string>
+    <string name="sumber_climat"><i>La source: Civilisation du Français (Catherine Carlo &amp; Mariella Causa)</i></string>
+
+    <!--Presentation : Relief-->
+    <string name="title_activity_le_relief">Le Rélief</string>
+    <string name="relief_poin_1">1.	La France a le Sommet qui très important, c’est:</string>
+    <string name="relief_subpoin_1">
+    \t a.	Les Pyrénées (au sud-ouest) \n
+    \t b.	Le Massif Central (au centre) \n
+    \t c.	Le Jura (à l’est) \n
+    \t d.	Les Vosges (au nord-est) \n
+    </string>
+    <string name="relief_subpoin_2">
+    \t a.	La Seine (776 km), qui traverse Paris \n
+    \t b.	La Loire (1.012 km), qui traverse le centre du pays \n
+    \t c.	Le Rhône (522 km), qui naît en Suisse et traverse Lyon \n
+    \t d.	Le Rhin (190 km), qui naît en Espagne et traverse Bordeaux \n
+    </string>
+    <string name="relief_poin_2">2.	Les fleuves les plus importants sont:</string>
+
+    <!--Presentation : Le Climat-->
+    <string name="title_activity_le_climat">Le Climat</string>
+    <string name="climat_poin1">
+        1.	À l’ouest, le climat océanique domine. Il est marqué par des précipitations régulières et abondantes, apportées par les depressions atlantique et qui prennent souvent la forme de fines averses.
+    </string>
+    <string name="climat_poin2">
+        2.	En Lorraine et en Alsace, il revêt des nuances continentals, avec des étés chauds et orageux, des hivers plus froid et des precipitations moins abondantes, en partie concentrées en été sous forme d’orages.
+    </string>
+    <string name="climat_poin3">
+        3.	Le climat méditerranéen domine dans le sud-est du pays et en Corse. Il est caractérisé par un ciel limpide, des étés chauds et secs et des hivers doux.
+    </string>
+    <string name="climat_poin4">
+        4.	Le climat de montagne caractérise les regions élevées. Il se traduit par des temperatures plus fraîches et des precipitations plus abondantes. En haute montage, le nombre de jours de gel peut dépasser 150 par an et le manteaux neigeux peut persister Durant six mois.
+    </string>
+    <string name="climat_poin5">
+        5.	Alors, le climat océanique à l’ouest
+    </string>
+    <string name="climat_poin5_anak">
+           \t le cilmat continental à l’est \n
+           \t le climat méditeranéen au sud
+    </string>
+
+    <!--Presentation : Le Paysages-->
+    <string name="title_activity_le_paysages">Le Paysages</string>
+    <string name="le_paysages_materi">
+        1.	Le Bassin parisien dans le Nord et le Bassin Aquitain dans le Sud-Ouest. \n
+        2.	Des pâturages dans le Nord et dans les Alpes. \n
+        3.	Des forêts de sapins et des lacs en montage. \n
+        4.	Du maquis en Corse. \n
+        5.	Des vignes dans la vallée du Rhône et le Bordelais. \n
+        6.	De l’olivier et des cultures maraîchères dans le Sud. \n
+    </string>
+    <string name="title_activity_lesson_quotidienne_list">LessonQuotidienneList</string>
+    <string name="title_activity_le_calendrier">Le Calendrier</string>
+    <string name="quotidienne1_poin1">
+        -	Pour élèves, les étudiants et les enseignant, l’année commence au mois de Septembre: on parle alors de rentrée scolaire \n
+        -	En France on travaille cinq jours par semaine (lundi-vendredi) \n
+        -	Dans certains services comme les banques, les bureau de poste, et les commerces, on travaille aussi le samedi \n
+        -	L’école commence au mois de Septembre et se termine au mois de Juin \n
+        -	Les élèves de 6 à 18 ans ont alors deux mois de vacances, Julliet et Août, ce sont les grandes vacances et le mois de grands depart \n
+        -	Pendant l’année scolaire, les élèves ont dáutres periods de vacances plus ou moins longues:
+    </string>
+    <string name="quotidienne1_subpoin1">
+        •	Une semaine (parfois deux) pour la Toussaint \n
+        •	15 jours pour Noël \n
+        •	15 jours pour les vacances d’hiver (février) \n
+        •	15 jours pour les vacances de printemps (Avril)
+    </string>
+
+    <string name="title_activity_quotidienne2">Une Semaine de Travail</string>
+    <string name="quotidienne2_poin1">
+     -	Pour se loger, un étudiant peut demander une chambre dans une cite universitaire, trouver une chambre dans un foyer, ou louer un appartement -éventuellement, le partager avec d’autres étudiants \n
+    -	Si on est logé loin de l’université et qu’on doit prendre les transports en commun tous les jours, il vaut mieux avoir un abonnement mensuel ou annuel au tariff étudiant \n
+    -	Pour payer ses études, un étudiant peut obtenir une bourse (1:5 étudiant est bousier) \n
+    -	Pour arrondir ses fins de mois, il cherche un petit boulot et travaille le soir ou le week-end \n
+    -	Il/elle peut garder des enfants, travailler comme vendeur/vendeuse dans une boutique, ou encore comme serveur/serveuse dans un fast food, dans un bar, etc. \n
+    -	Les avantages pour les étudiants sont, avec sa carte d’étudiant, un étudiant a un libre accès à toutes les bibliothèques, restaurants et équipements sportifs universitaires. De plus, il peut avoir des tariffs réduits au cinema et aux musées \n
+    </string>
+
+    <string name="title_activity_quotidienne3">Une Vie d’Étudiant</string>
+    <string name="title_activity_quotidienne4">Les Repas</string>
+    <string name="title_activity_quotidienne5">Les Courses</string>
+    <string name="title_activity_quotidienne6">Les Transports</string>
+</resources>

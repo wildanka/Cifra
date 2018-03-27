@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/information1"
+            android:id="@+id/information_1" />
+        <item
+            android:title="@string/information2"
+            android:id="@+id/information_2" />
+        <item
+            android:title="@string/information3"
+            android:id="@+id/information_3" />
+        <item
+            android:title="@string/information4"
+            android:id="@+id/information_4" />
+    </group>
+
+<!--    <item android:title="@string/materi">
+        <menu>
+            <item
+                android:title="@string/information1"
+                android:id="@+id/lesson1">
+            </item>
+            <item
+                android:title="@string/information1"
+                android:id="@+id/lesson2">
+            </item>
+            <item
+                android:title="@string/information1"
+                android:id="@+id/lesson3">
+            </item>
+            <item
+                android:title="@string/information1"
+                android:id="@+id/lesson4">
+            </item>
+        </menu>
+    </item>-->
+
+</menu>

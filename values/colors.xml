@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hitam">#000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDarker">#2b3889</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBiruPerancis">#5255ff</color>
+    <color name="colorBiruButtonAnswer">#0c50cf</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorWhiteNgejreng">#e7e7e7</color>
+    <color name="colorRed">#ff3b3e</color>
+    <color name="colorGreen">#00ba2f</color>
+    <color name="silver">#c6c6c6</color>
+
+
+</resources>

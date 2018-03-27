@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_information1"
+        android:title="L’information 1 (la Géographie)" />
+    <item android:title="L’information 2 (le Rélief)"/>
+    <item android:title="L’information 3 (le Climat)"/>
+    <item android:title="L’information 4 (les Paysages)"/>
+    <item android:title="Lessons"/>
+
+
+</menu>
