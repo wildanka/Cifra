@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dan.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cifra_icon_black"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/cifra_icon_black"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LessonMenu" />
+        <activity
+            android:name=".LessonMenuList"
+            android:label="Liste de Matériel" />
+        <activity
+            android:name=".LessonPolitique"
+            android:label="@string/judul_lesson_5" />
+        <activity
+            android:name=".LessonCulturelle"
+            android:label="@string/judul_lesson_1"
+            android:parentActivityName=".LessonMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonMenuList" />
+        </activity>
+        <activity
+            android:name=".LessonEconomique"
+            android:label="@string/title_activity_lesson_economique"
+            android:parentActivityName=".LessonMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonMenuList" />
+        </activity>
+        <activity
+            android:name=".LessonCulturelleMedia"
+            android:label="@string/title_activity_lesson_culturelle_media"
+            android:parentActivityName=".LessonCulturelle"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonCulturelle" />
+        </activity>
+        <activity
+            android:name=".LessonCulturelleMusic"
+            android:label="@string/title_activity_lesson_culturelle_music"
+            android:parentActivityName=".LessonCulturelle"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonCulturelle" />
+        </activity>
+        <activity
+            android:name=".LessonCulturelleFilm"
+            android:label="@string/title_activity_lesson_culturelle_film"
+            android:parentActivityName=".LessonCulturelle"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonCulturelle" />
+        </activity>
+        <activity
+            android:name=".LessonCulturelleMediaPress"
+            android:label="@string/title_activity_lesson_culturelle_media_press"
+            android:parentActivityName=".LessonCulturelleMedia"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonCulturelleMedia" />
+        </activity>
+        <activity
+            android:name=".LessonCulturelleMediaTV"
+            android:label="@string/title_activity_lesson_culturelle_media_tv"
+            android:parentActivityName=".LessonCulturelleMedia"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonCulturelleMedia" />
+        </activity>
+        <activity
+            android:name=".LessonFamiliale"
+            android:label="@string/title_activity_lesson_familiale"
+            android:parentActivityName=".LessonMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonMenuList" />
+        </activity>
+        <activity
+            android:name=".scolaire.LessonScolaire"
+            android:label="@string/title_activity_lesson_scolaire"
+            android:parentActivityName=".LessonMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonMenuList" />
+        </activity>
+        <activity
+            android:name=".scolaire.LessonScolaireSD"
+            android:label="@string/title_activity_lesson_scolaire_sd"
+            android:parentActivityName=".scolaire.LessonScolaire"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.scolaire.LessonScolaire" />
+        </activity>
+        <activity
+            android:name=".scolaire.LessonScolaireSMP"
+            android:label="@string/title_activity_lesson_scolaire_smp"
+            android:parentActivityName=".scolaire.LessonScolaire"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.scolaire.LessonScolaire" />
+        </activity>
+        <activity
+            android:name=".scolaire.LessonScolaireSMA"
+            android:label="@string/title_activity_lesson_scolaire_sm"
+            android:parentActivityName=".scolaire.LessonScolaire"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.scolaire.LessonScolaire" />
+        </activity>
+        <activity
+            android:name=".kotabesar.LessonGrandeVilles"
+            android:label="@string/title_activity_lesson_grande_villes"
+            android:parentActivityName=".LessonMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.LessonMenuList" />
+        </activity>
+        <activity
+            android:name=".kotabesar.LessonGrandeVillesDetail"
+            android:label="@string/title_activity_lesson_grande_villes_detail"
+            android:parentActivityName=".kotabesar.LessonGrandeVilles"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.kotabesar.LessonGrandeVilles" />
+        </activity>
+        <activity
+            android:name=".kotabesar.DetilKotaSatuGambar"
+            android:label="@string/title_activity_detil_kota_satu_gambar"
+            android:parentActivityName=".kotabesar.LessonGrandeVilles"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.kotabesar.LessonGrandeVilles" />
+        </activity>
+        <activity
+            android:name=".kotabesar.DetilKotaDuaGambar"
+            android:label="@string/title_activity_deti_kota_dua_gambar"
+            android:parentActivityName=".kotabesar.LessonGrandeVilles"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.kotabesar.LessonGrandeVilles" />
+        </activity>
+        <activity
+            android:name=".kotabesar.DetilKotaTigaGambar"
+            android:label="@string/title_activity_detil_kota_tiga_gambar"
+            android:parentActivityName=".kotabesar.LessonGrandeVilles"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.kotabesar.LessonGrandeVilles" />
+        </activity>
+        <activity
+            android:name=".kotabesar.DaerahKhususIbukota"
+            android:label="@string/title_activity_daerah_khusus_ibukota"
+            android:parentActivityName=".kotabesar.LessonGrandeVilles"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.kotabesar.LessonGrandeVilles" />
+        </activity>
+        <activity
+            android:name=".kotabesar.DetilKotaParis"
+            android:label="@string/title_activity_detil_kota_paris"
+            android:parentActivityName=".kotabesar.DaerahKhususIbukota"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.kotabesar.DaerahKhususIbukota" />
+        </activity>
+        <activity android:name=".kotabesar.DetilParis" />
+        <activity
+            android:name=".exercise.textonly.TextOnlyQuizOne"
+            android:label="@string/title_activity_text_only_quiz"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".exercise.textonly.TextOnlyQuizFive"
+            android:label="@string/title_activity_text_only_quiz_five"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".ExerciseMenuList"
+            android:label="@string/title_activity_exercise_menu_listbaru"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.MainActivity" />
+        </activity>
+        <activity
+            android:name=".exercise.pirctextquiz.PicNameQuizTwo"
+            android:label="@string/title_activity_pic_name_quiz"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".exercise.pirctextquiz.PicNameQuizSix"
+            android:label="@string/title_activity_pic_name_quiz_six"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".exercise.pirctextquiz.PicNameQuizSeven"
+            android:label="@string/title_activity_pic_name_quiz_seven"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".exercise.truefalse.QuizEight"
+            android:label="@string/title_activity_quiz_eight"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".exercise.textpicquiz.QuizThree"
+            android:label="@string/title_activity_quiz_three"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".exercise.textpicquiz.QuizFour"
+            android:label="@string/title_activity_quiz_four"
+            android:parentActivityName=".ExerciseMenuList"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dan.myapplication.ExerciseMenuList" />
+        </activity>
+        <activity
+            android:name=".presentation.LessonPresentationList"
+            android:label="@string/title_activity_lesson_presentation_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".presentation.materi.LaGeographie"
+            android:label="@string/title_activity_la_geographie"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".presentation.materi.LeRelief"
+            android:label="@string/title_activity_le_relief"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".presentation.materi.LeClimat"
+            android:label="@string/title_activity_le_climat"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".presentation.materi.LePaysages"
+            android:label="@string/title_activity_le_paysages"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LessonQuotidienneList"
+            android:label="@string/title_activity_lesson_quotidienne_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".quotidienne.LeCalendrier"
+            android:label="@string/title_activity_le_calendrier"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".quotidienne.Quotidienne2"
+            android:label="@string/title_activity_quotidienne2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".quotidienne.Quotidienne3"
+            android:label="@string/title_activity_quotidienne3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".quotidienne.Quotidienne4"
+            android:label="@string/title_activity_quotidienne4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".quotidienne.Quotidienne5"
+            android:label="@string/title_activity_quotidienne5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".quotidienne.Quotidienne6"
+            android:label="@string/title_activity_quotidienne6"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
